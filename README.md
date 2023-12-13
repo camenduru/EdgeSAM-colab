@@ -18,6 +18,7 @@ https://arxiv.org/abs/2312.06660
 https://mmlab-ntu.github.io/project/edgesam/
 
 ### 🖼 Output
+![Screenshot 2023-12-13 160838](https://github.com/camenduru/EdgeSAM-colab/assets/54370274/9e0b35e4-708b-40f7-98cf-cbf92f9f192d)
 
 ### 🏢 Sponsor
 https://modelslab.com
